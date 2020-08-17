@@ -1,0 +1,53 @@
+*{
+    margin: 1px;
+    padding: 1px;
+}
+
+body{
+    background-image: url('/images/logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navbar{  
+    background-color: #3b5998;
+}
+
+.email{
+    color: #fffefe;
+    display: inline-block;
+    box-sizing:border-box;
+    width:30%;
+    height: 50%;
+    margin: 0px 10px;
+}
+
+.image_facebook{
+    width: 150px;
+    margin: 0px 150px;
+   
+}
+
+.button1{
+    border: 2px solid #29447e;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #617aac;
+}
+
+#showcase{
+    /* background-image: url('../images/background.jpg'); */
+    background-position: center right;
+    min-height:300px;
+    margin-bottom:30px;
+    text-align: center;
+}
+
+.container {
+    /* color: #29447e; */
+    display: inline-block;
+}
